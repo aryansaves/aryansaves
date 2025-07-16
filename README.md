@@ -97,10 +97,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
-</div>
-
 <br/>
 
 <div align="center">
