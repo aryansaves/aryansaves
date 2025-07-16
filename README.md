@@ -20,8 +20,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/aryanposts" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanposts" height="30" width="40" />
-    <span>Twitter</span>
+    <img align="center" src="https://commons.wikimedia.org/wiki/Special:FilePath/X_Twitter_icon.svg" alt="aryanposts" height="30" width="40" />
+    <span> X </span>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/aryanisawake" target="blank">
