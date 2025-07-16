@@ -96,23 +96,6 @@
 
 ## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect and Build Something Amazing!</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=header&text=&fontSize=0" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Thanks%20for%20visiting!&fontSize=20&fontColor=ffffff" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+code+together!;Happy+Coding!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
