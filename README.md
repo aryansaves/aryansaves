@@ -29,11 +29,6 @@
     <span>LinkedIn</span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://kaggle.com/aryan7905" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryan7905" height="30" width="40" />
-    <span>Kaggle</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@aryan-writes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aryan-writes" height="30" width="40" />
     <span>Medium</span>
