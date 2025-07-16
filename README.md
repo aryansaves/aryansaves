@@ -6,51 +6,54 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-```javascript
-const aryan = {
-    currentlyLearning: "React Native",
-    mostKnown: "JavaScript",
-    email: "aryansrivastava354@gmail.com",
-    personality: "Easy to talk to!",
-    passion: "Building amazing applications",
-    goal: "To become a full-stack developer"
-};
-```
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently learning **React Native**
 - 💪 The most I know is **JavaScript**
 - 📫 Reach me here : **aryansrivastava354@gmail.com**
 - 💬 I think **I am easy to talk to !**
-- ⚡ Fun fact: I love solving coding challenges
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:
 
 <div align="center">
   <a href="https://dev.to/aryandev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryandev" height="30" width="40" />
+    <span>Dev.to</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/aryanposts" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanposts" height="30" width="40" />
+    <span>Twitter</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/aryankumarsrivastava" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryankumarsrivastava" height="30" width="40" />
+    <span>LinkedIn</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://kaggle.com/aryan7905" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryan7905" height="30" width="40" />
+    <span>Kaggle</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@aryan-writes" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aryan-writes" height="30" width="40" />
+    <span>Medium</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/jimmy7905" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jimmy7905" height="30" width="40" />
+    <span>Codeforces</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/aryan-solves" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan-solves" height="30" width="40" />
+    <span>LeetCode</span>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/aryanisawake" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aryanisawake" height="30" width="40" />
+    <span>Discord</span>
   </a>
 </div>
 
