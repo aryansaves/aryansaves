@@ -1,17 +1,15 @@
 # <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aryan+Srivastava;Welcome+to+my+GitHub+Profile!;A+Passionate+Developer;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)</div>
 
+## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=A+Developer;JavaScript+Enthusiast;React+Native+Learner;Problem+Solver&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=36BCF7">
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Currently learning **React Native**
 - 💪 The most I know is **JavaScript**
 - 📫 Reach me here : **aryansrivastava354@gmail.com**
 - 💬 I think **I am easy to talk to !**
+
+</div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:
 
@@ -62,39 +60,38 @@
 <div align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <br>C++
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <br>Git
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <br>JavaScript
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <br>Node.js
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <br>Python
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    <br>React Native
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://svelte.dev" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+    <br>Svelte
   </a>
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> My Git Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect and Build Something Amazing!
