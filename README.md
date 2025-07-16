@@ -14,19 +14,24 @@
 ## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Connect with me:</div>
 
 <div align="center">
-  <a href="https://dev.to/aryandev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryandev" height="30" width="40" />
-    <span>Dev.to</span>
+    <a href="https://linkedin.com/in/aryankumarsrivastava" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryankumarsrivastava" height="30" width="40" />
+    <span>LinkedIn</span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/aryanposts" target="blank">
+    <a href="https://discord.gg/aryanisawake" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aryanisawake" height="30" width="40" />
+    <span>Discord</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+   <a href="https://twitter.com/aryanposts" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aryanposts" height="30" width="40" />
     <span>Twitter</span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/aryankumarsrivastava" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryankumarsrivastava" height="30" width="40" />
-    <span>LinkedIn</span>
+  <a href="https://dev.to/aryandev" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryandev" height="30" width="40" />
+    <span>Dev.to</span>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@aryan-writes" target="blank">
@@ -44,10 +49,6 @@
     <span>LeetCode</span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/aryanisawake" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aryanisawake" height="30" width="40" />
-    <span>Discord</span>
-  </a>
 </div>
 
 ## <div align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Languages and Tools:</div>
