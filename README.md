@@ -1,4 +1,4 @@
- <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aryan+Srivastava;Welcome+to+my+GitHub+Profile!;A+Passionate+Developer;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)</div>
+# <div align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Aryan+Srivastava;Welcome+to+my+GitHub+Profile!;A+Passionate+Developer;Always+Learning+New+Things!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000)</div>
 
 ## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</div>
 
