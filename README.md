@@ -20,7 +20,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/aryanposts" target="blank">
-    <img align="center" src="https://commons.wikimedia.org/wiki/Special:FilePath/X_Twitter_icon.svg" alt="aryanposts" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="aryanposts" height="30" width="40" />
     <span> X </span>
   </a>
   &nbsp;&nbsp;&nbsp;
