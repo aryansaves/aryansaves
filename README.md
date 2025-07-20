@@ -46,7 +46,7 @@
 
 <br />
 
-## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Practice profiles:</div>
+## <div align="center"><img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"> Practice profiles:</div>
 
 <br />
 
