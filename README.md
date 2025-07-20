@@ -69,7 +69,7 @@
 
 <br />
 
-## <div align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Languages and Tools:</div>
+## <div align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35"> Languages and Tools:</div>
 
 <br />
 
