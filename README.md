@@ -4,7 +4,7 @@
 
 <div align="center">
 
-- 🔭 Currently learning **React Native**
+- 🔭 Currently learning **Backend Technologies (Express and a Non relational database)**
 - 💪 The most I know is **JavaScript**
 - 📫 Reach me here : **aryansrivastava354@gmail.com**
 - 💬 I think **I am easy to talk to !**
