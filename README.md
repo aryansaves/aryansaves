@@ -49,30 +49,7 @@
 
 <br />
 
-## <div align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"> Practice profiles:</div>
-
-<br />
-
-<div align="center">
-  <a href="https://www.leetcode.com/aryan-solves" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan-solves" height="30" width="40" />
-    <span>LeetCode</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/jimmy7905" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jimmy7905" height="30" width="40" />
-    <span>Codeforces</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/your-username" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/codechef.png" alt="codechef" height="30" width="40" />
-    <span>CodeChef</span>
-  </a>
-</div>
-
-<br />
-
-## <div align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60"> Languages and Tools:</div>
+## <div align="center"><img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60"> Languages and Tools:</div>
 
 <br />
 
