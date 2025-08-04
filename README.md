@@ -2,6 +2,9 @@
 
 ## <div align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</div>
 
+![](https://komarev.com/ghpvc/?username=aryansaves)
+
+
 <div align="center">
 
 - 🔭 Currently learning **Backend Technology**
