@@ -36,15 +36,6 @@
     <span>Discord</span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/aryandev" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aryandev" height="30" width="40" />
-    <span>Dev.to</span>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@aryan-writes" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aryan-writes" height="30" width="40" />
-    <span>Medium</span>
-  </a>
 </div>
 
 <br />
