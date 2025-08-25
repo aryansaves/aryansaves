@@ -27,7 +27,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/aryanposts" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="aryanposts" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/X_logo_2023_%28white%29.png/500px-X_logo_2023_%28white%29.png" alt="aryanposts" height="30" width="40" />
     <span> X </span>
   </a>
   &nbsp;&nbsp;&nbsp;
