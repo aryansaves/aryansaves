@@ -10,7 +10,7 @@
 - 🔭 Currently learning **Backend Technology**
 - 💪 The most I know is **JavaScript**
 - 📫 Reach me here : **aryansrivastava354@gmail.com**
-- 💬 I think **I am easy to talk to !**
+- 💬 I think **I am easy to work with !**
 
 </div>
 
