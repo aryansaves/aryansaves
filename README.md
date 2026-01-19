@@ -31,7 +31,7 @@
     <span> X </span>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/aryanisawake" target="blank">
+  <a href="https://discord.com/aryanisawake/914796080120614932" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aryanisawake" height="30" width="40" />
     <span>Discord</span>
   </a>
