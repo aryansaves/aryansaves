@@ -7,8 +7,8 @@
 
 <div align="center">
 
-- 🔭 Currently learning **Backend Technology**
-- 💪 The most I know is **JavaScript**
+- 🔭 Currently learning **Web scraping in Node/ Webrtc-websockets**
+- 💪 The most I am familiar with is **Backend/API/Auth/DB-schema**
 - 📫 Reach me here : **aryansrivastava354@gmail.com**
 - 💬 I think **I am easy to work with !**
 
