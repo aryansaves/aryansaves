@@ -7,7 +7,7 @@
 
 <div align="center">
 
-- 🔭 Currently learning **Web scraping in Node/ Webrtc-websockets**
+- 🔭 Currently learning **Deployment**
 - 💪 The most I am familiar with is **Backend/API/Auth/DB-schema**
 - 📫 Reach me here : **aryansrivastava354@gmail.com**
 - 💬 I think **I am easy to work with !**
